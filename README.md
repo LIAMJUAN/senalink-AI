@@ -3,3 +3,15 @@ El proyecto SeñaLink AI ha sido desarrollado por estudiantes con el propósito 
 Equipo de desarrollo:
 
 Liam Juan – Desarrollo y diseño de la página web.
+
+## Segmentos objetivo
+
+SeñaLink AI está dirigido a personas sordas o con discapacidad auditiva, estudiantes, docentes, instituciones educativas y personas interesadas en aprender lengua de señas.
+
+## Principales características
+
+- Interfaz web moderna y accesible.
+- Información sobre lengua de señas y comunicación inclusiva.
+- Sección de registro e inicio de sesión.
+- Diseño adaptable a computadoras y dispositivos móviles.
+- Herramientas orientadas al aprendizaje y la accesibilidad.
